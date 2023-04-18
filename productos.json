@@ -1038,8 +1038,8 @@
             "en_promocion": false
         },
         {
-            "codigo": 850001,
-            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
+            "codigo": 850006,
+            "descripcion": "SPOT DEO COLONIA FOR HIM POCKET 15 ML",
             "precio_catalogo": 7500,
             "puntos": 9.75,
             "precios": {
@@ -1055,8 +1055,8 @@
             "en_promocion": false
         },
         {
-            "codigo": 850006,
-            "descripcion": "SPOT DEO COLONIA FOR HIM POCKET 15 ML",
+            "codigo": 850001,
+            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
             "precio_catalogo": 7500,
             "puntos": 9.75,
             "precios": {
@@ -1412,23 +1412,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 75013,
-            "descripcion": "MANIA DE ALEGRIA KIDS SABONETE LIQUIDO",
-            "precio_catalogo": 10000,
-            "puntos": 7.0,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25289,
             "descripcion": "BATOM BALA - HIDRATANTE PASSIONE",
             "precio_catalogo": 7900,
@@ -1444,6 +1427,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 75013,
+            "descripcion": "MANIA DE ALEGRIA KIDS SABONETE LIQUIDO",
+            "precio_catalogo": 10000,
+            "puntos": 7.0,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25301,
@@ -1497,23 +1497,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 10203,
-            "descripcion": "LIFE ENERGY 75ML",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25282,
             "descripcion": "BATOM BALA -MATE  VELVET TANGERINE",
             "precio_catalogo": 8900,
@@ -1548,6 +1531,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 10203,
+            "descripcion": "LIFE ENERGY 75ML",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
+                }
+            },
+            "en_promocion": false
+        },
+        {
             "codigo": 25276,
             "descripcion": "BATOM BALA -MATTE  VELVET FUCSIA",
             "precio_catalogo": 8900,
@@ -1560,23 +1560,6 @@
                 "_40": {
                     "juridico": 5340,
                     "natural": 5909
-                }
-            },
-            "en_promocion": false
-        },
-        {
-            "codigo": 10205,
-            "descripcion": "LIFE CALM 75ML",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -1611,6 +1594,23 @@
                 "_40": {
                     "juridico": 5340,
                     "natural": 5909
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10205,
+            "descripcion": "LIFE CALM 75ML",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -2092,23 +2092,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 10112,
-            "descripcion": "FEELIN PARA ELLA",
-            "precio_catalogo": 35300,
-            "puntos": 35.5,
-            "precios": {
-                "_50": {
-                    "juridico": 17650,
-                    "natural": 20469
-                },
-                "_40": {
-                    "juridico": 21180,
-                    "natural": 23435
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 620073,
             "descripcion": "CONVITE CONVENCAO HINODE VISION 2023 - PRESENCIAL",
             "precio_catalogo": 123000,
@@ -2124,6 +2107,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 10112,
+            "descripcion": "FEELIN PARA ELLA",
+            "precio_catalogo": 35300,
+            "puntos": 35.5,
+            "precios": {
+                "_50": {
+                    "juridico": 17650,
+                    "natural": 20469
+                },
+                "_40": {
+                    "juridico": 21180,
+                    "natural": 23435
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 620070,
@@ -2245,5 +2245,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-18 13:17:36"
+    "ultima_actualizacion": "2023-04-18 10:49:50"
 }
