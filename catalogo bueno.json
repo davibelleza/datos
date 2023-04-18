@@ -1,0 +1,1059 @@
+[
+    {
+        "codigo_catalogo": 39,
+        "precio": 6300.0,
+        "nombre": "Concentrado Anti Sequedad Para Los Piés Hydra Power Corps Lignea 55g",
+        "descripcion": "Concentrado Hydra",
+        "codigo": 35010
+    },
+    {
+        "codigo_catalogo": 37,
+        "precio": 14600.0,
+        "nombre": "Exfoliante Corporal Corps Lignea Body Contour 200g",
+        "descripcion": "Exfoliante Corporal Body Contour Corps Lígnea 200g",
+        "codigo": 35003
+    },
+    {
+        "codigo_catalogo": 38,
+        "precio": 14600.0,
+        "nombre": "Tónico Corporal Corps Lignea Body Contour 140ml",
+        "descripcion": "Tônico Corporal Body Contour Corps Lígnea 140ml",
+        "codigo": 35005
+    },
+    {
+        "codigo_catalogo": 91,
+        "precio": 14600.0,
+        "nombre": "Crema Para Masaje Body Contour Corps Lignea 200g",
+        "descripcion": "Crema para Masaje",
+        "codigo": 35002
+    },
+    {
+        "codigo_catalogo": 92,
+        "precio": 16500.0,
+        "nombre": "Gel Modelador Body Contour Corps Lignea 500g",
+        "descripcion": "Gel Reductor de Medidas Body Contour Corps Lígnea 500g",
+        "codigo": 35008
+    },
+    {
+        "codigo_catalogo": 176,
+        "precio": 11990.0,
+        "nombre": "Joli Precious Oils Coconut & Vainilla Aceite en crema desodorante corporal",
+        "descripcion": "Joli Precious Oils Coconut & Vainilla Aceite en crema desodorante corporal",
+        "codigo": 33006
+    },
+    {
+        "codigo_catalogo": 175,
+        "precio": 13990.0,
+        "nombre": "Joli Precious Oils Coconut & Vainilla Aceite desodorante corporal",
+        "descripcion": "Joli Precious Oils Coconut & Vainilla Aceite desodorante corporal",
+        "codigo": 33007
+    },
+    {
+        "codigo_catalogo": 177,
+        "precio": 13990.0,
+        "nombre": "Joli Precious Oils Coconut & Vainilla Manteca desodorante corporal",
+        "descripcion": "Joli Precious Oils Coconut & Vainilla Manteca desodorante corporal",
+        "codigo": 33008
+    },
+    {
+        "codigo_catalogo": 692,
+        "precio": 7800.0,
+        "nombre": "Loción Hidratante Corporal Smell Mousse de Maracuyá 200ml",
+        "descripcion": "Loción Hidratante Corporal",
+        "codigo": 692
+    },
+    {
+        "codigo_catalogo": 688,
+        "precio": 7800.0,
+        "nombre": "Loción Hidratante Corporal Smell Aroma de Limón 200ml",
+        "descripcion": "Loción Hidratante Corporal",
+        "codigo": 688
+    },
+    {
+        "codigo_catalogo": 44,
+        "precio": 5100.0,
+        "nombre": "Desodorante Roll-on Sens Herbalis 55ml",
+        "descripcion": "Desodorante Roll-on",
+        "codigo": 36035
+    },
+    {
+        "codigo_catalogo": 43,
+        "precio": 10100.0,
+        "nombre": "Jabón Cremoso Facial Sens Herbalis 250ml",
+        "descripcion": "Jabón Facial",
+        "codigo": 36034
+    },
+    {
+        "codigo_catalogo": 270,
+        "precio": 5500.0,
+        "nombre": "Guante de Silicona Hands 100gr",
+        "descripcion": "Guante de Silicona",
+        "codigo": 270
+    },
+    {
+        "codigo_catalogo": 48,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Sexy Violet 200ml",
+        "descripcion": "Sexy Violet",
+        "codigo": 39003
+    },
+    {
+        "codigo_catalogo": 50,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Cotton Heart 200ml",
+        "descripcion": "Cotton Heart",
+        "codigo": 39005
+    },
+    {
+        "codigo_catalogo": 49,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Divine Blossom 200ml",
+        "descripcion": "Divine Blossom",
+        "codigo": 39004
+    },
+    {
+        "codigo_catalogo": 45,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Pink Strawberry 200ml",
+        "descripcion": "Pink Strawberry",
+        "codigo": 39000
+    },
+    {
+        "codigo_catalogo": 46,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Vibrant Berry 200ml",
+        "descripcion": "Vibrant Berry",
+        "codigo": 39001
+    },
+    {
+        "codigo_catalogo": 47,
+        "precio": 5950.0,
+        "nombre": "Hidratante Sublime Velvet Hibiscus 200ml",
+        "descripcion": "Velvet Hibiscus",
+        "codigo": 39002
+    },
+    {
+        "codigo_catalogo": 188,
+        "precio": 6800.0,
+        "nombre": "Prowhite Enjuague Bucal 250ml",
+        "descripcion": "Enjuague bucal",
+        "codigo": 40001
+    },
+    {
+        "codigo_catalogo": 189,
+        "precio": 3400.0,
+        "nombre": "Prowhite Gel Dental 90g",
+        "descripcion": "Gel Dental",
+        "codigo": 40000
+    },
+    {
+        "codigo_catalogo": 190,
+        "precio": 5800.0,
+        "nombre": "ProActive Gel Dental con Carbón Activado + Aloe Vera 70g",
+        "descripcion": "Gel Dental",
+        "codigo": 40006
+    },
+    {
+        "codigo_catalogo": 22,
+        "precio": 7900.0,
+        "nombre": "Shampoo H-Expert Todo Tipo de Cabellos 250ml",
+        "descripcion": "Shampoo Todo Tipo de Cabellos",
+        "codigo": 12068
+    },
+    {
+        "codigo_catalogo": 23,
+        "precio": 8200.0,
+        "nombre": "Acondicionador H-Expert Todo Tipo de Cabellos 200ml",
+        "descripcion": "Acondicionador Todo Tipo de Cabellos",
+        "codigo": 12069
+    },
+    {
+        "codigo_catalogo": 20,
+        "precio": 7900.0,
+        "nombre": "Shampoo H-Expert Cabellos Dañado 250ml",
+        "descripcion": "Shampoo Cabellos Dañados",
+        "codigo": 12066
+    },
+    {
+        "codigo_catalogo": 21,
+        "precio": 8200.0,
+        "nombre": "Acondicionador H-Expert Cabellos Dañado 200ml",
+        "descripcion": "Acondicionador Cabellos Dañados",
+        "codigo": 12067
+    },
+    {
+        "codigo_catalogo": 18,
+        "precio": 7900.0,
+        "nombre": "Shampoo H-Expert Cabellos Oleoso 250ml",
+        "descripcion": "Shampoo Cabellos Oleosos",
+        "codigo": 12064
+    },
+    {
+        "codigo_catalogo": 19,
+        "precio": 8200.0,
+        "nombre": "Acondicionador H-Expert Cabellos Oleosos 200ml",
+        "descripcion": "Acondicionador Cabellos Oleosos",
+        "codigo": 12065
+    },
+    {
+        "codigo_catalogo": 62,
+        "precio": 19300.0,
+        "nombre": "Máscara Facial de Arcilla Blanca Routine 60g",
+        "descripcion": "Máscara Facial Aclaradora Arcilla Blanca Ilumina Solution Routine 60g",
+        "codigo": 60028
+    },
+    {
+        "codigo_catalogo": 63,
+        "precio": 9800.0,
+        "nombre": "Máscara Facial Peel-Off Carbón Activo Routine 60g",
+        "descripcion": "Máscara Facial De Carbón Activado Peel-Off Routine 60g",
+        "codigo": 60030
+    },
+    {
+        "codigo_catalogo": 140,
+        "precio": 10600.0,
+        "nombre": "Gel de Limpieza Facial Routine Oil Control",
+        "descripcion": "Gel de Limpeza Facial Oil Control Routine 150g",
+        "codigo": 60034
+    },
+    {
+        "codigo_catalogo": 141,
+        "precio": 10600.0,
+        "nombre": "Hidratante Facial Acne Oil Control Routine 60g",
+        "descripcion": "Hidratante Facial Oil Control Routine 60g",
+        "codigo": 60035
+    },
+    {
+        "codigo_catalogo": 139,
+        "precio": 9400.0,
+        "nombre": "Gel Secador Routine Oil Control",
+        "descripcion": "Gel Secador",
+        "codigo": 60032
+    },
+    {
+        "codigo_catalogo": 142,
+        "precio": 9700.0,
+        "nombre": "Shampoo Mania de Alegria Baby 200ml",
+        "descripcion": "Shampoo Infantil",
+        "codigo": 74000
+    },
+    {
+        "codigo_catalogo": 143,
+        "precio": 10000.0,
+        "nombre": "Hidratante Corporal Mania de Alegria Baby",
+        "descripcion": "Hidratante Infantil",
+        "codigo": 74001
+    },
+    {
+        "codigo_catalogo": 144,
+        "precio": 9700.0,
+        "nombre": "Jabón Líquido De la Cabeza a Los Pies Mania de Alegria Baby 200ml",
+        "descripcion": "Jabón Líquido Infantil",
+        "codigo": 74002
+    },
+    {
+        "codigo_catalogo": 146,
+        "precio": 10000.0,
+        "nombre": "Jabón Liquido Mania de Alegria Kids 200ml",
+        "descripcion": "Jabón Líquido Infantil",
+        "codigo": 75013
+    },
+    {
+        "codigo_catalogo": 134,
+        "precio": 7500.0,
+        "nombre": "Crema de Peinar Mania de Alegria Kids 150ml ",
+        "descripcion": "Crema de peinar Infantil",
+        "codigo": 75014
+    },
+    {
+        "codigo_catalogo": 145,
+        "precio": 10000.0,
+        "nombre": "Shampoo Todo Tipo de Cabello Mania De Alegria Kids 200ml",
+        "descripcion": "Shampoo Infantil",
+        "codigo": 75011
+    },
+    {
+        "codigo_catalogo": 135,
+        "precio": 6500.0,
+        "nombre": "Gel Capilar Mania de Alegria Kids 150ml",
+        "descripcion": "Gel Infantil",
+        "codigo": 75015
+    },
+    {
+        "codigo_catalogo": 133,
+        "precio": 9000.0,
+        "nombre": "Acondicionador Todo Tipo de Cabello Mania De Alegria Kids 200m",
+        "descripcion": "Acondicionador Infantil",
+        "codigo": 75012
+    },
+    {
+        "codigo_catalogo": 105,
+        "precio": 7900.0,
+        "nombre": "Labial Hidratante Dazzle Terracota",
+        "descripcion": "Terracota",
+        "codigo": 25286
+    },
+    {
+        "codigo_catalogo": 130,
+        "precio": 7900.0,
+        "nombre": "Labial Hidratante Dazzle Pasion",
+        "descripcion": "Passione",
+        "codigo": 25289
+    },
+    {
+        "codigo_catalogo": 107,
+        "precio": 7900.0,
+        "nombre": "Labial Hidratante Dazzle Red Sun",
+        "descripcion": "Red Sun",
+        "codigo": 25290
+    },
+    {
+        "codigo_catalogo": 216,
+        "precio": 39.0,
+        "nombre": "Labial Hidratante Dazzle Rosa Lilac",
+        "descripcion": "Rosa Lilac",
+        "codigo": 25328
+    },
+    {
+        "codigo_catalogo": 217,
+        "precio": 39.0,
+        "nombre": "Labial Hidratante Dazzle Nude Rose",
+        "descripcion": "Nude Rose",
+        "codigo": 25330
+    },
+    {
+        "codigo_catalogo": 112,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Fucsia",
+        "descripcion": "Fucsia",
+        "codigo": 25276
+    },
+    {
+        "codigo_catalogo": 115,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Burdeos",
+        "descripcion": "Bordó",
+        "codigo": 25279
+    },
+    {
+        "codigo_catalogo": 116,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Nude Chic",
+        "descripcion": "Nude Chic",
+        "codigo": 25280
+    },
+    {
+        "codigo_catalogo": 119,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Tangerine",
+        "descripcion": "Tangerine",
+        "codigo": 25282
+    },
+    {
+        "codigo_catalogo": 120,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Capuccino",
+        "descripcion": "Capuccino",
+        "codigo": 25283
+    },
+    {
+        "codigo_catalogo": 121,
+        "precio": 8900.0,
+        "nombre": "Labial Matte Velvet Dazzle Marsala",
+        "descripcion": "Marsala",
+        "codigo": 25284
+    },
+    {
+        "codigo_catalogo": 35,
+        "precio": 33000.0,
+        "nombre": "Paleta de Sombras Dazzle 12 Cores Soft Dazzle",
+        "descripcion": "Soft",
+        "codigo": 25272
+    },
+    {
+        "codigo_catalogo": 36,
+        "precio": 33000.0,
+        "nombre": "Paleta de Sombras Dazzle 12 Cores Glam Dazzle",
+        "descripcion": "Glam",
+        "codigo": 25273
+    },
+    {
+        "codigo_catalogo": 163,
+        "precio": 7500.0,
+        "nombre": "Lápiz Retráctil Kajal Dazzle",
+        "descripcion": "Delineador",
+        "codigo": 25331
+    },
+    {
+        "codigo_catalogo": 162,
+        "precio": 11000.0,
+        "nombre": "Lápiz Delineador Dazzle",
+        "descripcion": "Delineador",
+        "codigo": 25275
+    },
+    {
+        "codigo_catalogo": 138,
+        "precio": 10500.0,
+        "nombre": "Lápiz Retráctil Para Cejas Dazzle",
+        "descripcion": "Delineador para cejas",
+        "codigo": 25327
+    },
+    {
+        "codigo_catalogo": 165,
+        "precio": 6500.0,
+        "nombre": "Lápiz Retráctil Dazzle Marron",
+        "descripcion": "Delineador Marrón",
+        "codigo": 25334
+    },
+    {
+        "codigo_catalogo": 166,
+        "precio": 6500.0,
+        "nombre": "Lápiz Retráctil Dazzle Negro ",
+        "descripcion": "Delineador Negro",
+        "codigo": 25344
+    },
+    {
+        "codigo_catalogo": 126,
+        "precio": 10500.0,
+        "nombre": "Máscara de Pestañas Voluminosas Volumax Dazzle A Prueba de Agua",
+        "descripcion": "Máscara de Pestañas",
+        "codigo": 25298
+    },
+    {
+        "codigo_catalogo": 85,
+        "precio": 12000.0,
+        "nombre": "Máscara De Pestañas Volumax Dazzle 6g",
+        "descripcion": "Máscara de Pestañas",
+        "codigo": 25065
+    },
+    {
+        "codigo_catalogo": 136,
+        "precio": 11000.0,
+        "nombre": "Máscara de Pestañas Voluminosas Eyemazing Dazzle",
+        "descripcion": "Máscara de Pestañas",
+        "codigo": 25299
+    },
+    {
+        "codigo_catalogo": 110,
+        "precio": 11000.0,
+        "nombre": "Máscara de Pestañas Alargadas Eyemazing Dazzle",
+        "descripcion": "Máscara De Pestañas",
+        "codigo": 25200
+    },
+    {
+        "codigo_catalogo": 153,
+        "precio": 13000.0,
+        "nombre": "Máscara Para Pestañas Dazzle Long Lash",
+        "descripcion": "Máscara de Pestañas",
+        "codigo": 25333
+    },
+    {
+        "codigo_catalogo": 34,
+        "precio": 19000.0,
+        "nombre": "Base Líquida Hyaluronic Hydra 30ml Oscuro 1 Dazzle",
+        "descripcion": "Base Líquida oscuro 1",
+        "codigo": 25264
+    },
+    {
+        "codigo_catalogo": 33,
+        "precio": 19000.0,
+        "nombre": "Base Líquida Hyaluronic Hydra 30ml Medio 2 Dazzle",
+        "descripcion": "Base  Líquida medio 2",
+        "codigo": 25263
+    },
+    {
+        "codigo_catalogo": 32,
+        "precio": 19000.0,
+        "nombre": "Base Líquida Hyaluronic Hydra 30ml Medio 1 Dazzle",
+        "descripcion": "Base Líquida medio 1",
+        "codigo": 25262
+    },
+    {
+        "codigo_catalogo": 31,
+        "precio": 19000.0,
+        "nombre": "Base Líquida Hyaluronic Hydra 30ml Claro 2 Dazzle",
+        "descripcion": "Base  Líquida claro 2",
+        "codigo": 25261
+    },
+    {
+        "codigo_catalogo": 30,
+        "precio": 19000.0,
+        "nombre": "Base Líquida Hyaluronic Hydra 30ml Claro 1 Dazzle",
+        "descripcion": "Base Líquida claro 1",
+        "codigo": 25260
+    },
+    {
+        "codigo_catalogo": 211,
+        "precio": 56.0,
+        "nombre": "Polvo Compacto Velvet Dazzle Oscuro 1",
+        "descripcion": "Oscuro 1",
+        "codigo": 25304
+    },
+    {
+        "codigo_catalogo": 125,
+        "precio": 12000.0,
+        "nombre": "Polvo Compacto Velvet Dazzle Medio 2",
+        "descripcion": "Medio 2",
+        "codigo": 25303
+    },
+    {
+        "codigo_catalogo": 124,
+        "precio": 12000.0,
+        "nombre": "Polvo Compacto Velvet Dazzle Medio 1",
+        "descripcion": "Medio 1",
+        "codigo": 25302
+    },
+    {
+        "codigo_catalogo": 123,
+        "precio": 12000.0,
+        "nombre": "Polvo Compacto Velvet Dazzle Claro 2",
+        "descripcion": "Claro 2",
+        "codigo": 25301
+    },
+    {
+        "codigo_catalogo": 122,
+        "precio": 12000.0,
+        "nombre": "Polvo Compacto Velvet Dazzle Claro 1",
+        "descripcion": "Claro 1",
+        "codigo": 25300
+    },
+    {
+        "codigo_catalogo": 210,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Oscuro 1",
+        "descripcion": "Oscuro 1",
+        "codigo": 25296
+    },
+    {
+        "codigo_catalogo": 151,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Medio 2",
+        "descripcion": "Medio 2",
+        "codigo": 25295
+    },
+    {
+        "codigo_catalogo": 151,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Medio 2",
+        "descripcion": "Medio 2",
+        "codigo": 25295
+    },
+    {
+        "codigo_catalogo": 150,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Medio 1",
+        "descripcion": "Medio 1",
+        "codigo": 25294
+    },
+    {
+        "codigo_catalogo": 149,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Claro 2",
+        "descripcion": "Claro 2",
+        "codigo": 25293
+    },
+    {
+        "codigo_catalogo": 148,
+        "precio": 9900.0,
+        "nombre": "Corrector de Larga Duración Dazzle Claro 1",
+        "descripcion": "Claro 1",
+        "codigo": 25292
+    },
+    {
+        "codigo_catalogo": 131,
+        "precio": 11000.0,
+        "nombre": "Blush Dazzle Rose Perlado",
+        "descripcion": "Rose Perlado",
+        "codigo": 25306
+    },
+    {
+        "codigo_catalogo": 164,
+        "precio": 11000.0,
+        "nombre": "Blush Dazzle Bronce Perlado",
+        "descripcion": "Bronce Perlado",
+        "codigo": 25308
+    },
+    {
+        "codigo_catalogo": 132,
+        "precio": 11000.0,
+        "nombre": "Blush Dazzle Terracota Perlado",
+        "descripcion": "Terracota Perlado",
+        "codigo": 25307
+    },
+    {
+        "codigo_catalogo": 152,
+        "precio": 78.0,
+        "nombre": "Paleta Multifuincional Must Have Dazzle",
+        "descripcion": "Paleta Multifuncional",
+        "codigo": 25312
+    },
+    {
+        "codigo_catalogo": 73,
+        "precio": 7500.0,
+        "nombre": "Fragancia Grace Midnight Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850011
+    },
+    {
+        "codigo_catalogo": 83,
+        "precio": 35300.0,
+        "nombre": "Fragancia Grace Midnight 100ml",
+        "descripcion": "Grace Midnight 100ml",
+        "codigo": 10107
+    },
+    {
+        "codigo_catalogo": 74,
+        "precio": 7500.0,
+        "nombre": "Fragancia Grace La Rose Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850012
+    },
+    {
+        "codigo_catalogo": 25,
+        "precio": 18500.0,
+        "nombre": "Sérum Para Las Manos Grace La Rose Sublime 40g",
+        "descripcion": "Sérum Para las Manos Grace La Rose Sublime 40g",
+        "codigo": 20117
+    },
+    {
+        "codigo_catalogo": 7,
+        "precio": 35300.0,
+        "nombre": "Fragancia Grace La Rose Sublime 100ml",
+        "descripcion": "Grace La Rose Sublime Deo Colonia 100ml",
+        "codigo": 10117
+    },
+    {
+        "codigo_catalogo": 194,
+        "precio": 31300.0,
+        "nombre": "Fragancia Ella Radiance 100ml",
+        "descripcion": "Ella Radiance 100ml",
+        "codigo": 10153
+    },
+    {
+        "codigo_catalogo": 195,
+        "precio": 31300.0,
+        "nombre": "Fragancia Ella Pérolas 100ml",
+        "descripcion": "Ella Pérolas 100ml",
+        "codigo": 10159
+    },
+    {
+        "codigo_catalogo": 196,
+        "precio": 31300.0,
+        "nombre": "Fragancia Ella Juicy 100ml",
+        "descripcion": "Ella Juicy 100ml",
+        "codigo": 10145
+    },
+    {
+        "codigo_catalogo": 78,
+        "precio": 7500.0,
+        "nombre": "Fragancia Inebriante Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850021
+    },
+    {
+        "codigo_catalogo": 8,
+        "precio": 51200.0,
+        "nombre": "Fragancia Inebriante 100ml",
+        "descripcion": "Inebriante Eau de Parfum 100ml",
+        "codigo": 10119
+    },
+    {
+        "codigo_catalogo": 199,
+        "precio": 31300.0,
+        "nombre": "Fragancia Lattitude Stamina 100ml",
+        "descripcion": "Lattitude Stamina 100ml",
+        "codigo": 10142
+    },
+    {
+        "codigo_catalogo": 198,
+        "precio": 31300.0,
+        "nombre": "Fragancia Lattitude Origini 100ml",
+        "descripcion": "Lattitude Origini 100ml",
+        "codigo": 10152
+    },
+    {
+        "codigo_catalogo": 67,
+        "precio": 7500.0,
+        "nombre": "Fragancia Lattitude Stamina Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850005
+    },
+    {
+        "codigo_catalogo": 66,
+        "precio": 7500.0,
+        "nombre": "Fragancia Lattitude Expedition Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850004
+    },
+    {
+        "codigo_catalogo": 200,
+        "precio": 31300.0,
+        "nombre": "Fragancia Lattitude Expedition 100ml",
+        "descripcion": "Lattitude Expedition 100ml",
+        "codigo": 45030
+    },
+    {
+        "codigo_catalogo": 65,
+        "precio": 7500.0,
+        "nombre": "Fragancia Empire Gold Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850001
+    },
+    {
+        "codigo_catalogo": 197,
+        "precio": 38200.0,
+        "nombre": "Fragancia Empire Gold 100ml",
+        "descripcion": "Empire Gold 100ml",
+        "codigo": 10138
+    },
+    {
+        "codigo_catalogo": 80,
+        "precio": 41900.0,
+        "nombre": "Fragancia Empire 100ml",
+        "descripcion": "Empire 100ml",
+        "codigo": 10102
+    },
+    {
+        "codigo_catalogo": 4,
+        "precio": 37700.0,
+        "nombre": "Fragancia Empire Sport 100ml",
+        "descripcion": "Empire Sport 100ml",
+        "codigo": 10113
+    },
+    {
+        "codigo_catalogo": 81,
+        "precio": 37700.0,
+        "nombre": "Fragancia Empire Intense 100ml",
+        "descripcion": "Empire Intense 100ml",
+        "codigo": 10104
+    },
+    {
+        "codigo_catalogo": 1,
+        "precio": 37700.0,
+        "nombre": "Fragancia Empire Vip 100ml",
+        "descripcion": "Empire Vip 100ml",
+        "codigo": 10110
+    },
+    {
+        "codigo_catalogo": 202,
+        "precio": 24500.0,
+        "nombre": "Fragancia H-men 75ml",
+        "descripcion": "H-men 75ml",
+        "codigo": 10151
+    },
+    {
+        "codigo_catalogo": 51,
+        "precio": 8900.0,
+        "nombre": "Shampoo Anticaspa H-Men 300ml",
+        "descripcion": "Shampoo Anticaspa",
+        "codigo": 45036
+    },
+    {
+        "codigo_catalogo": 52,
+        "precio": 8500.0,
+        "nombre": "Shampoo Para Barba y Cuerpo H-Men 200ml",
+        "descripcion": "Shampoo Barba y Cuerpo",
+        "codigo": 45037
+    },
+    {
+        "codigo_catalogo": 56,
+        "precio": 4500.0,
+        "nombre": "Desodorante Roll-on H-Men 55ml",
+        "descripcion": "Desodorante Roll-on",
+        "codigo": 45045
+    },
+    {
+        "codigo_catalogo": 53,
+        "precio": 7000.0,
+        "nombre": "Gel Capilar Fijación Media H-Men 120g",
+        "descripcion": "Gel",
+        "codigo": 45038
+    },
+    {
+        "codigo_catalogo": 54,
+        "precio": 10900.0,
+        "nombre": "Pomada Capilar H-Men 40g",
+        "descripcion": "Pomada",
+        "codigo": 45039
+    },
+    {
+        "codigo_catalogo": 129,
+        "precio": 32900.0,
+        "nombre": "Fragancia Life Refresh 75ml",
+        "descripcion": "Fragancia para él y ella",
+        "codigo": 10204
+    },
+    {
+        "codigo_catalogo": 147,
+        "precio": 32900.0,
+        "nombre": "Fragancia Life Calm 75ml",
+        "descripcion": "Fragancia para él y ella",
+        "codigo": 10205
+    },
+    {
+        "codigo_catalogo": 128,
+        "precio": 32900.0,
+        "nombre": "Fragancia Life Energy 100ml",
+        "descripcion": "Fragancia para él y ella",
+        "codigo": 10203
+    },
+    {
+        "codigo_catalogo": 94,
+        "precio": 32900.0,
+        "nombre": "Fragancia Hype Para Ella 100m",
+        "descripcion": "Fragancia para ella",
+        "codigo": 10123
+    },
+    {
+        "codigo_catalogo": 10,
+        "precio": 32900.0,
+        "nombre": "Fragancia Hype Para Él 100ml",
+        "descripcion": "Hype For Him Deo Colonia 100ml",
+        "codigo": 10122
+    },
+    {
+        "codigo_catalogo": 77,
+        "precio": 7500.0,
+        "nombre": "Fragancia Hype Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850016
+    },
+    {
+        "codigo_catalogo": 76,
+        "precio": 7500.0,
+        "nombre": "Fragancia Hype Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850015
+    },
+    {
+        "codigo_catalogo": 17,
+        "precio": 32900.0,
+        "nombre": "Fragancia Hype Ink Art Para Él 100ml",
+        "descripcion": "Hype Ink Art For Him 100ml",
+        "codigo": 10199
+    },
+    {
+        "codigo_catalogo": 16,
+        "precio": 32900.0,
+        "nombre": "Fragancia Hype Ink Art Para Ella 100ml",
+        "descripcion": "Hype Ink Art For Her 100ml",
+        "codigo": 10198
+    },
+    {
+        "codigo_catalogo": 3,
+        "precio": 35300.0,
+        "nombre": "Fragancia Feelin Para Ella 100ml",
+        "descripcion": "Feelin For Her Deo Colonia 100ml",
+        "codigo": 10112
+    },
+    {
+        "codigo_catalogo": 2,
+        "precio": 35300.0,
+        "nombre": "Fragancia Feelin Para Él 100ml",
+        "descripcion": "Feelin For Him Deo Colonia 100ml",
+        "codigo": 10111
+    },
+    {
+        "codigo_catalogo": 207,
+        "precio": 6600.0,
+        "nombre": "Gel Para Masaje Corporal Fellin Hot Cereza & Champán 60ml",
+        "descripcion": "Gel Para Masaje Corporal",
+        "codigo": 10156
+    },
+    {
+        "codigo_catalogo": 14,
+        "precio": 6600.0,
+        "nombre": "Gel Para Masaje Corporal Fellin Hot Vainilla 60ml",
+        "descripcion": "Gel Para Masaje Corporal",
+        "codigo": 10154
+    },
+    {
+        "codigo_catalogo": 5,
+        "precio": 35300.0,
+        "nombre": "Fragancia Feelin Sexy Ella 100ml",
+        "descripcion": "Feelin Sexy For Her Deo Colonia 100ml",
+        "codigo": 10115
+    },
+    {
+        "codigo_catalogo": 6,
+        "precio": 35300.0,
+        "nombre": "Fragancia Feelin Sexy Él 100ml",
+        "descripcion": "Feelin Sexy For Him Deo Colonia 100ml",
+        "codigo": 10116
+    },
+    {
+        "codigo_catalogo": 15,
+        "precio": 6600.0,
+        "nombre": "Gel Para Masaje Corporal Fellin Hot Fresa 60ml",
+        "descripcion": "Gel Para Masaje Corporal",
+        "codigo": 10155
+    },
+    {
+        "codigo_catalogo": 72,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850010
+    },
+    {
+        "codigo_catalogo": 75,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850013
+    },
+    {
+        "codigo_catalogo": 71,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Sexy Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850009
+    },
+    {
+        "codigo_catalogo": 70,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Sexy Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850008
+    },
+    {
+        "codigo_catalogo": 65,
+        "precio": 7500.0,
+        "nombre": "Fragancia Empire Gold Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850001
+    },
+    {
+        "codigo_catalogo": 75,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850013
+    },
+    {
+        "codigo_catalogo": 66,
+        "precio": 7500.0,
+        "nombre": "Fragancia Lattitude Expedition Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850004
+    },
+    {
+        "codigo_catalogo": 68,
+        "precio": 7500.0,
+        "nombre": "Fragancia Spot Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850006
+    },
+    {
+        "codigo_catalogo": 78,
+        "precio": 7500.0,
+        "nombre": "Fragancia Inebriante Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850021
+    },
+    {
+        "codigo_catalogo": 70,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Sexy Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850008
+    },
+    {
+        "codigo_catalogo": 67,
+        "precio": 7500.0,
+        "nombre": "Fragancia Lattitude Stamina Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850005
+    },
+    {
+        "codigo_catalogo": 73,
+        "precio": 7500.0,
+        "nombre": "Fragancia Grace Midnight Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850011
+    },
+    {
+        "codigo_catalogo": 76,
+        "precio": 7500.0,
+        "nombre": "Fragancia Hype Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850015
+    },
+    {
+        "codigo_catalogo": 71,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Sexy Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850009
+    },
+    {
+        "codigo_catalogo": 74,
+        "precio": 7500.0,
+        "nombre": "Fragancia Grace La Rose Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850012
+    },
+    {
+        "codigo_catalogo": 77,
+        "precio": 7500.0,
+        "nombre": "Fragancia Hype Para Él Pocket 15ml",
+        "descripcion": "Fragancia para él",
+        "codigo": 850016
+    },
+    {
+        "codigo_catalogo": 72,
+        "precio": 7500.0,
+        "nombre": "Fragancia Feelin Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850010
+    },
+    {
+        "codigo_catalogo": 69,
+        "precio": 7500.0,
+        "nombre": "Fragancia Spot Para Ella Pocket 15ml",
+        "descripcion": "Fragancia para ella",
+        "codigo": 850007
+    },
+    {
+        "codigo_catalogo": 236,
+        "precio": 22600.0,
+        "nombre": "Omega 3 90 cápsulas",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17544
+    },
+    {
+        "codigo_catalogo": 234,
+        "precio": 24900.0,
+        "nombre": "Shake H-control Sabor Frutos Rojos 550g",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17538
+    },
+    {
+        "codigo_catalogo": 235,
+        "precio": 27600.0,
+        "nombre": "Shake H-control Lactosa Free Sabor Banana 550g",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17537
+    },
+    {
+        "codigo_catalogo": 99,
+        "precio": 24900.0,
+        "nombre": "Shake H-control Sabor Chocolate 550g",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17533
+    },
+    {
+        "codigo_catalogo": 98,
+        "precio": 24900.0,
+        "nombre": "Shake H-control Sabor Fresa 550g",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17535
+    },
+    {
+        "codigo_catalogo": 100,
+        "precio": 24900.0,
+        "nombre": "Shake H-control Sabor Vainilla 550g",
+        "descripcion": "Complemento Alimenticio",
+        "codigo": 17534
+    }
+]
