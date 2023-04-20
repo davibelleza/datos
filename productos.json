@@ -902,23 +902,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 17538,
-            "descripcion": "HND SHAKE FRUTAS VERMELHAS 450G",
-            "precio_catalogo": 24900,
-            "puntos": 16.7,
-            "precios": {
-                "_50": {
-                    "juridico": 8717,
-                    "natural": 10109
-                },
-                "_40": {
-                    "juridico": 10461,
-                    "natural": 11574
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25334,
             "descripcion": "DAZZLE Lapis Retratil PARA OLHOS MARROM",
             "precio_catalogo": 6500,
@@ -951,6 +934,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 17538,
+            "descripcion": "HND SHAKE FRUTAS VERMELHAS 450G",
+            "precio_catalogo": 24900,
+            "puntos": 16.7,
+            "precios": {
+                "_50": {
+                    "juridico": 8717,
+                    "natural": 10109
+                },
+                "_40": {
+                    "juridico": 10461,
+                    "natural": 11574
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25307,
@@ -987,23 +987,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850011,
-            "descripcion": "GRACE DEO COLONIA MIDNIGHT POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25327,
             "descripcion": "LAPISEIRA RETRATIL SOBRANCELHA",
             "precio_catalogo": 10500,
@@ -1016,6 +999,23 @@
                 "_40": {
                     "juridico": 6300,
                     "natural": 6971
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850011,
+            "descripcion": "GRACE DEO COLONIA MIDNIGHT POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -1276,23 +1276,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 7350,
-            "descripcion": "KIT DE NEGOCIO",
-            "precio_catalogo": 33000,
-            "puntos": 0.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16500,
-                    "natural": 19135
-                },
-                "_40": {
-                    "juridico": 19800,
-                    "natural": 21908
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25263,
             "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 2",
             "precio_catalogo": 19000,
@@ -1325,6 +1308,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 7350,
+            "descripcion": "KIT DE NEGOCIO",
+            "precio_catalogo": 33000,
+            "puntos": 0.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16500,
+                    "natural": 19135
+                },
+                "_40": {
+                    "juridico": 19800,
+                    "natural": 21908
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25331,
@@ -1616,23 +1616,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850007,
-            "descripcion": "SPOT DEO COLONIA FOR HER POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25262,
             "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 1",
             "precio_catalogo": 19000,
@@ -1645,6 +1628,23 @@
                 "_40": {
                     "juridico": 11400,
                     "natural": 12614
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850007,
+            "descripcion": "SPOT DEO COLONIA FOR HER POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -2007,23 +2007,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 686076,
-            "descripcion": "PACK MADRES II",
-            "precio_catalogo": 37650,
-            "puntos": 34.3,
-            "precios": {
-                "_50": {
-                    "juridico": 18825,
-                    "natural": 21831
-                },
-                "_40": {
-                    "juridico": 22590,
-                    "natural": 24995
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 686077,
             "descripcion": "PACK MADRES III",
             "precio_catalogo": 31350,
@@ -2036,6 +2019,23 @@
                 "_40": {
                     "juridico": 18810,
                     "natural": 20813
+                }
+            },
+            "en_promocion": true
+        },
+        {
+            "codigo": 686076,
+            "descripcion": "PACK MADRES II",
+            "precio_catalogo": 37650,
+            "puntos": 34.3,
+            "precios": {
+                "_50": {
+                    "juridico": 18825,
+                    "natural": 21831
+                },
+                "_40": {
+                    "juridico": 22590,
+                    "natural": 24995
                 }
             },
             "en_promocion": true
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-19 16:20:03"
+    "ultima_actualizacion": "2023-04-20 00:26:34"
 }
