@@ -1276,23 +1276,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 33008,
-            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
-            "precio_catalogo": 13990,
-            "puntos": 15.75,
-            "precios": {
-                "_50": {
-                    "juridico": 5596,
-                    "natural": 6490
-                },
-                "_40": {
-                    "juridico": 6716,
-                    "natural": 7430
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25302,
             "descripcion": "DAZZLE PO COMPACTO  VELVET MEDIO 01",
             "precio_catalogo": 12000,
@@ -1308,6 +1291,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 33008,
+            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
+            "precio_catalogo": 13990,
+            "puntos": 15.75,
+            "precios": {
+                "_50": {
+                    "juridico": 5596,
+                    "natural": 6490
+                },
+                "_40": {
+                    "juridico": 6716,
+                    "natural": 7430
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25331,
@@ -1480,8 +1480,8 @@
             "en_promocion": false
         },
         {
-            "codigo": 25279,
-            "descripcion": "BATOM BALA -MATTE   VELVET BORDO",
+            "codigo": 25282,
+            "descripcion": "BATOM BALA -MATE  VELVET TANGERINE",
             "precio_catalogo": 8900,
             "puntos": 7.5,
             "precios": {
@@ -1497,8 +1497,8 @@
             "en_promocion": false
         },
         {
-            "codigo": 25282,
-            "descripcion": "BATOM BALA -MATE  VELVET TANGERINE",
+            "codigo": 25279,
+            "descripcion": "BATOM BALA -MATTE   VELVET BORDO",
             "precio_catalogo": 8900,
             "puntos": 7.5,
             "precios": {
@@ -1526,6 +1526,23 @@
                 "_40": {
                     "juridico": 5940,
                     "natural": 6573
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25276,
+            "descripcion": "BATOM BALA -MATTE  VELVET FUCSIA",
+            "precio_catalogo": 8900,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1560,23 +1577,6 @@
                 "_40": {
                     "juridico": 19740,
                     "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
-            "codigo": 25276,
-            "descripcion": "BATOM BALA -MATTE  VELVET FUCSIA",
-            "precio_catalogo": 8900,
-            "puntos": 7.5,
-            "precios": {
-                "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
-                },
-                "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1752,23 +1752,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 25304,
-            "descripcion": "DAZZLE PO COMPACTO VELVET ESCURO 01",
-            "precio_catalogo": 56,
-            "puntos": 7.11,
-            "precios": {
-                "_50": {
-                    "juridico": 28,
-                    "natural": 33
-                },
-                "_40": {
-                    "juridico": 34,
-                    "natural": 38
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25328,
             "descripcion": "BATOM BALA - HIDRATANTE ROSA LILAC",
             "precio_catalogo": 39,
@@ -1784,6 +1767,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 25304,
+            "descripcion": "DAZZLE PO COMPACTO VELVET ESCURO 01",
+            "precio_catalogo": 56,
+            "puntos": 7.11,
+            "precios": {
+                "_50": {
+                    "juridico": 28,
+                    "natural": 33
+                },
+                "_40": {
+                    "juridico": 34,
+                    "natural": 38
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 12064,
@@ -1871,23 +1871,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 17537,
-            "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
-            "precio_catalogo": 27600,
-            "puntos": 25.75,
-            "precios": {
-                "_50": {
-                    "juridico": 13800,
-                    "natural": 16004
-                },
-                "_40": {
-                    "juridico": 16560,
-                    "natural": 18323
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 75012,
             "descripcion": "MANIA DE ALEGRIA KIDS CONDICIONADOR PARA TODO TIPO DE CABELO",
             "precio_catalogo": 9000,
@@ -1903,6 +1886,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 17537,
+            "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
+            "precio_catalogo": 27600,
+            "puntos": 25.75,
+            "precios": {
+                "_50": {
+                    "juridico": 13800,
+                    "natural": 16004
+                },
+                "_40": {
+                    "juridico": 16560,
+                    "natural": 18323
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 74001,
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-21 00:27:23"
+    "ultima_actualizacion": "2023-04-21 11:30:18"
 }
