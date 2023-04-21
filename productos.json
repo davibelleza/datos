@@ -392,23 +392,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 40000,
-            "descripcion": "PRO WHITE GEL DENTAL",
-            "precio_catalogo": 3400,
-            "puntos": 3.5,
-            "precios": {
-                "_50": {
-                    "juridico": 1275,
-                    "natural": 1479
-                },
-                "_40": {
-                    "juridico": 1530,
-                    "natural": 1693
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 688,
             "descripcion": "SMELL LOCAO HIDR DESOD CORP SUSPIRO DE LIMAO 200ML",
             "precio_catalogo": 7800,
@@ -424,6 +407,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 40000,
+            "descripcion": "PRO WHITE GEL DENTAL",
+            "precio_catalogo": 3400,
+            "puntos": 3.5,
+            "precios": {
+                "_50": {
+                    "juridico": 1275,
+                    "natural": 1479
+                },
+                "_40": {
+                    "juridico": 1530,
+                    "natural": 1693
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 10110,
@@ -494,23 +494,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 850015,
-            "descripcion": "HYPE DEO COLONIA FEMIN POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 75015,
             "descripcion": "MANIA DE ALEGRIA KIDS  GEL CAPILAR INFANTIL",
             "precio_catalogo": 6500,
@@ -523,6 +506,23 @@
                 "_40": {
                     "juridico": 3900,
                     "natural": 4316
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850015,
+            "descripcion": "HYPE DEO COLONIA FEMIN POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -613,23 +613,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 40006,
-            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
-            "precio_catalogo": 5800,
-            "puntos": 5.75,
-            "precios": {
-                "_50": {
-                    "juridico": 2900,
-                    "natural": 3364
-                },
-                "_40": {
-                    "juridico": 3480,
-                    "natural": 3851
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 35002,
             "descripcion": "CORPS LIGNEA BODY CONTOUR CREME PARA MASSAGEM",
             "precio_catalogo": 14600,
@@ -642,6 +625,23 @@
                 "_40": {
                     "juridico": 8760,
                     "natural": 9693
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 40006,
+            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
+            "precio_catalogo": 5800,
+            "puntos": 5.75,
+            "precios": {
+                "_50": {
+                    "juridico": 2900,
+                    "natural": 3364
+                },
+                "_40": {
+                    "juridico": 3480,
+                    "natural": 3851
                 }
             },
             "en_promocion": false
@@ -749,23 +749,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 850012,
-            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25312,
             "descripcion": "DAZZLE PALETA MULTIFUNCIONAL MUST HAVE",
             "precio_catalogo": 78,
@@ -778,6 +761,23 @@
                 "_40": {
                     "juridico": 47,
                     "natural": 52
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850012,
+            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -919,23 +919,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850004,
-            "descripcion": "LATTITUDE DEO COLONIA EXPEDITION POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 17538,
             "descripcion": "HND SHAKE FRUTAS VERMELHAS 450G",
             "precio_catalogo": 24900,
@@ -951,6 +934,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 850004,
+            "descripcion": "LATTITUDE DEO COLONIA EXPEDITION POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 25307,
@@ -1004,23 +1004,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850011,
-            "descripcion": "GRACE DEO COLONIA MIDNIGHT POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25308,
             "descripcion": "DAZZLE BLUSH BRONZE PEROLADO",
             "precio_catalogo": 11000,
@@ -1033,6 +1016,23 @@
                 "_40": {
                     "juridico": 6600,
                     "natural": 7303
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850011,
+            "descripcion": "GRACE DEO COLONIA MIDNIGHT POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -1242,23 +1242,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 33008,
-            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
-            "precio_catalogo": 13990,
-            "puntos": 15.75,
-            "precios": {
-                "_50": {
-                    "juridico": 5596,
-                    "natural": 6490
-                },
-                "_40": {
-                    "juridico": 6716,
-                    "natural": 7430
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25299,
             "descripcion": "DAZZLE MASCARA DE CILIOS EYEMAZING VOLUME",
             "precio_catalogo": 11000,
@@ -1293,6 +1276,23 @@
             "en_promocion": true
         },
         {
+            "codigo": 33008,
+            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
+            "precio_catalogo": 13990,
+            "puntos": 15.75,
+            "precios": {
+                "_50": {
+                    "juridico": 5596,
+                    "natural": 6490
+                },
+                "_40": {
+                    "juridico": 6716,
+                    "natural": 7430
+                }
+            },
+            "en_promocion": true
+        },
+        {
             "codigo": 25302,
             "descripcion": "DAZZLE PO COMPACTO  VELVET MEDIO 01",
             "precio_catalogo": 12000,
@@ -1308,23 +1308,6 @@
                 }
             },
             "en_promocion": false
-        },
-        {
-            "codigo": 7350,
-            "descripcion": "KIT DE NEGOCIO",
-            "precio_catalogo": 33000,
-            "puntos": 0.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16500,
-                    "natural": 19135
-                },
-                "_40": {
-                    "juridico": 19800,
-                    "natural": 21908
-                }
-            },
-            "en_promocion": true
         },
         {
             "codigo": 25331,
@@ -1361,6 +1344,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 7350,
+            "descripcion": "KIT DE NEGOCIO",
+            "precio_catalogo": 33000,
+            "puntos": 0.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16500,
+                    "natural": 19135
+                },
+                "_40": {
+                    "juridico": 19800,
+                    "natural": 21908
+                }
+            },
+            "en_promocion": true
+        },
+        {
             "codigo": 25292,
             "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA CLARO 1",
             "precio_catalogo": 9900,
@@ -1373,6 +1373,23 @@
                 "_40": {
                     "juridico": 5940,
                     "natural": 6573
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10204,
+            "descripcion": "LIFE REFRESH 75ML",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -1395,23 +1412,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 10204,
-            "descripcion": "LIFE REFRESH 75ML",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25289,
             "descripcion": "BATOM BALA - HIDRATANTE PASSIONE",
             "precio_catalogo": 7900,
@@ -1424,6 +1424,23 @@
                 "_40": {
                     "juridico": 4740,
                     "natural": 5245
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25301,
+            "descripcion": "DAZZLE PO COMPACTO VELVET CLARO 02",
+            "precio_catalogo": 12000,
+            "puntos": 7.11,
+            "precios": {
+                "_50": {
+                    "juridico": 6000,
+                    "natural": 6958
+                },
+                "_40": {
+                    "juridico": 7200,
+                    "natural": 7967
                 }
             },
             "en_promocion": false
@@ -1444,23 +1461,6 @@
                 }
             },
             "en_promocion": true
-        },
-        {
-            "codigo": 25301,
-            "descripcion": "DAZZLE PO COMPACTO VELVET CLARO 02",
-            "precio_catalogo": 12000,
-            "puntos": 7.11,
-            "precios": {
-                "_50": {
-                    "juridico": 6000,
-                    "natural": 6958
-                },
-                "_40": {
-                    "juridico": 7200,
-                    "natural": 7967
-                }
-            },
-            "en_promocion": false
         },
         {
             "codigo": 25344,
@@ -1531,6 +1531,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 25280,
+            "descripcion": "BATOM BALA -MATTE  VELVET NUDE CHIC",
+            "precio_catalogo": 8900,
+            "puntos": 5.36,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
+                }
+            },
+            "en_promocion": false
+        },
+        {
             "codigo": 10203,
             "descripcion": "LIFE ENERGY 75ML",
             "precio_catalogo": 32900,
@@ -1565,23 +1582,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 25280,
-            "descripcion": "BATOM BALA -MATTE  VELVET NUDE CHIC",
-            "precio_catalogo": 8900,
-            "puntos": 5.36,
-            "precios": {
-                "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
-                },
-                "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25283,
             "descripcion": "BATOM BALA -MATE  VELVET CAPUCCINO",
             "precio_catalogo": 8900,
@@ -1599,23 +1599,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 10205,
-            "descripcion": "LIFE CALM 75ML",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25262,
             "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 1",
             "precio_catalogo": 19000,
@@ -1628,6 +1611,23 @@
                 "_40": {
                     "juridico": 11400,
                     "natural": 12614
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10205,
+            "descripcion": "LIFE CALM 75ML",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -1667,6 +1667,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 25273,
+            "descripcion": "PALETA DE SOMBRAS DAZZLE GLAM 12 COLORES",
+            "precio_catalogo": 33000,
+            "puntos": 26.5,
+            "precios": {
+                "_50": {
+                    "juridico": 16500,
+                    "natural": 19135
+                },
+                "_40": {
+                    "juridico": 19800,
+                    "natural": 21908
+                }
+            },
+            "en_promocion": false
+        },
+        {
             "codigo": 33007,
             "descripcion": "OLEO CORPORAL VANILLA E COCO - 200 ML",
             "precio_catalogo": 13990,
@@ -1684,18 +1701,18 @@
             "en_promocion": true
         },
         {
-            "codigo": 25273,
-            "descripcion": "PALETA DE SOMBRAS DAZZLE GLAM 12 COLORES",
-            "precio_catalogo": 33000,
-            "puntos": 26.5,
+            "codigo": 10198,
+            "descripcion": "DEO COLONIA HYPE INK ART FOR HER",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
             "precios": {
                 "_50": {
-                    "juridico": 16500,
-                    "natural": 19135
+                    "juridico": 16450,
+                    "natural": 19077
                 },
                 "_40": {
-                    "juridico": 19800,
-                    "natural": 21908
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -1718,21 +1735,21 @@
             "en_promocion": false
         },
         {
-            "codigo": 10198,
-            "descripcion": "DEO COLONIA HYPE INK ART FOR HER",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
+            "codigo": 25330,
+            "descripcion": "BATOM BALA - HIDRATANTE  NUDE ROSE",
+            "precio_catalogo": 39,
+            "puntos": 4.99,
             "precios": {
                 "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
+                    "juridico": 20,
+                    "natural": 23
                 },
                 "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
+                    "juridico": 24,
+                    "natural": 26
                 }
             },
-            "en_promocion": false
+            "en_promocion": true
         },
         {
             "codigo": 25304,
@@ -1750,23 +1767,6 @@
                 }
             },
             "en_promocion": false
-        },
-        {
-            "codigo": 25330,
-            "descripcion": "BATOM BALA - HIDRATANTE  NUDE ROSE",
-            "precio_catalogo": 39,
-            "puntos": 4.99,
-            "precios": {
-                "_50": {
-                    "juridico": 20,
-                    "natural": 23
-                },
-                "_40": {
-                    "juridico": 24,
-                    "natural": 26
-                }
-            },
-            "en_promocion": true
         },
         {
             "codigo": 25328,
@@ -1871,23 +1871,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 75012,
-            "descripcion": "MANIA DE ALEGRIA KIDS CONDICIONADOR PARA TODO TIPO DE CABELO",
-            "precio_catalogo": 9000,
-            "puntos": 7.5,
-            "precios": {
-                "_50": {
-                    "juridico": 3375,
-                    "natural": 3914
-                },
-                "_40": {
-                    "juridico": 4050,
-                    "natural": 4482
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 17537,
             "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
             "precio_catalogo": 27600,
@@ -1903,6 +1886,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 75012,
+            "descripcion": "MANIA DE ALEGRIA KIDS CONDICIONADOR PARA TODO TIPO DE CABELO",
+            "precio_catalogo": 9000,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 3375,
+                    "natural": 3914
+                },
+                "_40": {
+                    "juridico": 4050,
+                    "natural": 4482
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 74001,
@@ -2041,23 +2041,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 686078,
-            "descripcion": "PACK MADRES IV",
-            "precio_catalogo": 45080,
-            "puntos": 36.1,
-            "precios": {
-                "_50": {
-                    "juridico": 22540,
-                    "natural": 26139
-                },
-                "_40": {
-                    "juridico": 27048,
-                    "natural": 29928
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 620073,
             "descripcion": "CONVITE CONVENCAO HINODE VISION 2023 - PRESENCIAL",
             "precio_catalogo": 123000,
@@ -2070,6 +2053,23 @@
                 "_40": {
                     "juridico": 73800,
                     "natural": 81656
+                }
+            },
+            "en_promocion": true
+        },
+        {
+            "codigo": 686078,
+            "descripcion": "PACK MADRES IV",
+            "precio_catalogo": 45080,
+            "puntos": 36.1,
+            "precios": {
+                "_50": {
+                    "juridico": 22540,
+                    "natural": 26139
+                },
+                "_40": {
+                    "juridico": 27048,
+                    "natural": 29928
                 }
             },
             "en_promocion": true
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-20 00:26:34"
+    "ultima_actualizacion": "2023-04-21 00:27:23"
 }
