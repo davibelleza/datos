@@ -1395,23 +1395,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 12069,
-            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
-            "precio_catalogo": 8200,
-            "puntos": 3.3,
-            "precios": {
-                "_50": {
-                    "juridico": 2460,
-                    "natural": 2853
-                },
-                "_40": {
-                    "juridico": 2952,
-                    "natural": 3267
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25289,
             "descripcion": "BATOM BALA - HIDRATANTE PASSIONE",
             "precio_catalogo": 7900,
@@ -1427,6 +1410,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 12069,
+            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
+            "precio_catalogo": 8200,
+            "puntos": 3.3,
+            "precios": {
+                "_50": {
+                    "juridico": 2460,
+                    "natural": 2853
+                },
+                "_40": {
+                    "juridico": 2952,
+                    "natural": 3267
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25301,
@@ -1565,23 +1565,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 10203,
-            "descripcion": "LIFE ENERGY 75ML",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25283,
             "descripcion": "BATOM BALA -MATE  VELVET CAPUCCINO",
             "precio_catalogo": 8900,
@@ -1594,6 +1577,23 @@
                 "_40": {
                     "juridico": 5340,
                     "natural": 5909
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10203,
+            "descripcion": "LIFE ENERGY 75ML",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -1888,6 +1888,23 @@
             "en_promocion": true
         },
         {
+            "codigo": 25303,
+            "descripcion": "DAZZLE PO COMPACTO VELVET MEDIO 02",
+            "precio_catalogo": 12000,
+            "puntos": 7.11,
+            "precios": {
+                "_50": {
+                    "juridico": 6000,
+                    "natural": 6958
+                },
+                "_40": {
+                    "juridico": 7200,
+                    "natural": 7967
+                }
+            },
+            "en_promocion": false
+        },
+        {
             "codigo": 17537,
             "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
             "precio_catalogo": 27600,
@@ -1922,40 +1939,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 25303,
-            "descripcion": "DAZZLE PO COMPACTO VELVET MEDIO 02",
-            "precio_catalogo": 12000,
-            "puntos": 7.11,
-            "precios": {
-                "_50": {
-                    "juridico": 6000,
-                    "natural": 6958
-                },
-                "_40": {
-                    "juridico": 7200,
-                    "natural": 7967
-                }
-            },
-            "en_promocion": false
-        },
-        {
-            "codigo": 10123,
-            "descripcion": "HYPE FOR HER",
-            "precio_catalogo": 32900,
-            "puntos": 32.0,
-            "precios": {
-                "_50": {
-                    "juridico": 16450,
-                    "natural": 19077
-                },
-                "_40": {
-                    "juridico": 19740,
-                    "natural": 21842
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 75011,
             "descripcion": "MANIA DE ALEGRIA KIDS  SHAMPOO PARA TODO TIPO DE CABELO",
             "precio_catalogo": 10000,
@@ -1985,6 +1968,23 @@
                 "_40": {
                     "juridico": 4740,
                     "natural": 5245
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10123,
+            "descripcion": "HYPE FOR HER",
+            "precio_catalogo": 32900,
+            "puntos": 32.0,
+            "precios": {
+                "_50": {
+                    "juridico": 16450,
+                    "natural": 19077
+                },
+                "_40": {
+                    "juridico": 19740,
+                    "natural": 21842
                 }
             },
             "en_promocion": false
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-21 11:30:18"
+    "ultima_actualizacion": "2023-04-22 00:27:31"
 }
