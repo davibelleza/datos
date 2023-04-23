@@ -239,23 +239,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 35010,
-            "descripcion": "CONCENTRADO ANTI SEQUEDAD PARA PIES HYDRA POWER 55 G",
-            "precio_catalogo": 6300,
-            "puntos": 7.25,
-            "precios": {
-                "_50": {
-                    "juridico": 3150,
-                    "natural": 3653
-                },
-                "_40": {
-                    "juridico": 3780,
-                    "natural": 4183
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 10113,
             "descripcion": "EMPIRE SPORT HINODE - 100 ML",
             "precio_catalogo": 37700,
@@ -271,6 +254,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 35010,
+            "descripcion": "CONCENTRADO ANTI SEQUEDAD PARA PIES HYDRA POWER 55 G",
+            "precio_catalogo": 6300,
+            "puntos": 7.25,
+            "precios": {
+                "_50": {
+                    "juridico": 3150,
+                    "natural": 3653
+                },
+                "_40": {
+                    "juridico": 3780,
+                    "natural": 4183
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 40001,
@@ -630,23 +630,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 40006,
-            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
-            "precio_catalogo": 5800,
-            "puntos": 5.75,
-            "precios": {
-                "_50": {
-                    "juridico": 2900,
-                    "natural": 3364
-                },
-                "_40": {
-                    "juridico": 3480,
-                    "natural": 3851
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 10122,
             "descripcion": "HYPE FOR HIM",
             "precio_catalogo": 32900,
@@ -659,6 +642,23 @@
                 "_40": {
                     "juridico": 19740,
                     "natural": 21842
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 40006,
+            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
+            "precio_catalogo": 5800,
+            "puntos": 5.75,
+            "precios": {
+                "_50": {
+                    "juridico": 2900,
+                    "natural": 3364
+                },
+                "_40": {
+                    "juridico": 3480,
+                    "natural": 3851
                 }
             },
             "en_promocion": false
@@ -732,23 +732,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 12068,
-            "descripcion": "H EXPERT SHAMP. TODO TIPO DE CABELOS 250 ML",
-            "precio_catalogo": 7900,
-            "puntos": 3.9,
-            "precios": {
-                "_50": {
-                    "juridico": 2370,
-                    "natural": 2749
-                },
-                "_40": {
-                    "juridico": 2844,
-                    "natural": 3147
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25312,
             "descripcion": "DAZZLE PALETA MULTIFUNCIONAL MUST HAVE",
             "precio_catalogo": 78,
@@ -766,21 +749,21 @@
             "en_promocion": false
         },
         {
-            "codigo": 850012,
-            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
+            "codigo": 12068,
+            "descripcion": "H EXPERT SHAMP. TODO TIPO DE CABELOS 250 ML",
+            "precio_catalogo": 7900,
+            "puntos": 3.9,
             "precios": {
                 "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
+                    "juridico": 2370,
+                    "natural": 2749
                 },
                 "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
+                    "juridico": 2844,
+                    "natural": 3147
                 }
             },
-            "en_promocion": false
+            "en_promocion": true
         },
         {
             "codigo": 60032,
@@ -795,6 +778,23 @@
                 "_40": {
                     "juridico": 5640,
                     "natural": 6241
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850012,
+            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -834,23 +834,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 10153,
-            "descripcion": "DEO COLONIA ELLA RADIANCE",
-            "precio_catalogo": 31300,
-            "puntos": 30.25,
-            "precios": {
-                "_50": {
-                    "juridico": 15650,
-                    "natural": 18149
-                },
-                "_40": {
-                    "juridico": 18780,
-                    "natural": 20779
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25300,
             "descripcion": "DAZZLE PO COMPACTO VELVET CLARO 01",
             "precio_catalogo": 12000,
@@ -863,6 +846,23 @@
                 "_40": {
                     "juridico": 7200,
                     "natural": 7967
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 10153,
+            "descripcion": "DEO COLONIA ELLA RADIANCE",
+            "precio_catalogo": 31300,
+            "puntos": 30.25,
+            "precios": {
+                "_50": {
+                    "juridico": 15650,
+                    "natural": 18149
+                },
+                "_40": {
+                    "juridico": 18780,
+                    "natural": 20779
                 }
             },
             "en_promocion": false
@@ -1055,23 +1055,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850001,
-            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 12065,
             "descripcion": "H EXPERT COND. CABELOS OLEOSOS 200 ML",
             "precio_catalogo": 8200,
@@ -1087,6 +1070,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 850001,
+            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 850005,
@@ -1225,23 +1225,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 45039,
-            "descripcion": "POMADA CAPILAR H-MEN -40G",
-            "precio_catalogo": 10900,
-            "puntos": 12.0,
-            "precios": {
-                "_50": {
-                    "juridico": 5450,
-                    "natural": 6321
-                },
-                "_40": {
-                    "juridico": 6540,
-                    "natural": 7237
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25299,
             "descripcion": "DAZZLE MASCARA DE CILIOS EYEMAZING VOLUME",
             "precio_catalogo": 11000,
@@ -1254,6 +1237,23 @@
                 "_40": {
                     "juridico": 6600,
                     "natural": 7303
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 45039,
+            "descripcion": "POMADA CAPILAR H-MEN -40G",
+            "precio_catalogo": 10900,
+            "puntos": 12.0,
+            "precios": {
+                "_50": {
+                    "juridico": 5450,
+                    "natural": 6321
+                },
+                "_40": {
+                    "juridico": 6540,
+                    "natural": 7237
                 }
             },
             "en_promocion": false
@@ -1293,23 +1293,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 33008,
-            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
-            "precio_catalogo": 13990,
-            "puntos": 15.75,
-            "precios": {
-                "_50": {
-                    "juridico": 5596,
-                    "natural": 6490
-                },
-                "_40": {
-                    "juridico": 6716,
-                    "natural": 7430
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25331,
             "descripcion": "KAJAL RETRATIL",
             "precio_catalogo": 7500,
@@ -1327,6 +1310,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 33008,
+            "descripcion": "MANTEIGA EM CREME VANILLA E COCO - 200 ML",
+            "precio_catalogo": 13990,
+            "puntos": 15.75,
+            "precios": {
+                "_50": {
+                    "juridico": 5596,
+                    "natural": 6490
+                },
+                "_40": {
+                    "juridico": 6716,
+                    "natural": 7430
+                }
+            },
+            "en_promocion": true
+        },
+        {
             "codigo": 25286,
             "descripcion": "BATOM BALA - HIDRATANTE TERRACOTA",
             "precio_catalogo": 7900,
@@ -1339,6 +1339,23 @@
                 "_40": {
                     "juridico": 4740,
                     "natural": 5245
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25292,
+            "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA CLARO 1",
+            "precio_catalogo": 9900,
+            "puntos": 8.5,
+            "precios": {
+                "_50": {
+                    "juridico": 4950,
+                    "natural": 5741
+                },
+                "_40": {
+                    "juridico": 5940,
+                    "natural": 6573
                 }
             },
             "en_promocion": false
@@ -1359,23 +1376,6 @@
                 }
             },
             "en_promocion": true
-        },
-        {
-            "codigo": 25292,
-            "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA CLARO 1",
-            "precio_catalogo": 9900,
-            "puntos": 8.5,
-            "precios": {
-                "_50": {
-                    "juridico": 4950,
-                    "natural": 5741
-                },
-                "_40": {
-                    "juridico": 5940,
-                    "natural": 6573
-                }
-            },
-            "en_promocion": false
         },
         {
             "codigo": 10204,
@@ -1412,23 +1412,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 12069,
-            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
-            "precio_catalogo": 8200,
-            "puntos": 3.3,
-            "precios": {
-                "_50": {
-                    "juridico": 2460,
-                    "natural": 2853
-                },
-                "_40": {
-                    "juridico": 2952,
-                    "natural": 3267
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25301,
             "descripcion": "DAZZLE PO COMPACTO VELVET CLARO 02",
             "precio_catalogo": 12000,
@@ -1458,6 +1441,23 @@
                 "_40": {
                     "juridico": 4500,
                     "natural": 4979
+                }
+            },
+            "en_promocion": true
+        },
+        {
+            "codigo": 12069,
+            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
+            "precio_catalogo": 8200,
+            "puntos": 3.3,
+            "precios": {
+                "_50": {
+                    "juridico": 2460,
+                    "natural": 2853
+                },
+                "_40": {
+                    "juridico": 2952,
+                    "natural": 3267
                 }
             },
             "en_promocion": true
@@ -1497,23 +1497,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 25279,
-            "descripcion": "BATOM BALA -MATTE   VELVET BORDO",
-            "precio_catalogo": 8900,
-            "puntos": 7.5,
-            "precios": {
-                "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
-                },
-                "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25295,
             "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA MEDIO 02",
             "precio_catalogo": 9900,
@@ -1526,6 +1509,23 @@
                 "_40": {
                     "juridico": 5940,
                     "natural": 6573
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25279,
+            "descripcion": "BATOM BALA -MATTE   VELVET BORDO",
+            "precio_catalogo": 8900,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1565,23 +1565,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 25283,
-            "descripcion": "BATOM BALA -MATE  VELVET CAPUCCINO",
-            "precio_catalogo": 8900,
-            "puntos": 7.5,
-            "precios": {
-                "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
-                },
-                "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 10203,
             "descripcion": "LIFE ENERGY 75ML",
             "precio_catalogo": 32900,
@@ -1594,6 +1577,23 @@
                 "_40": {
                     "juridico": 19740,
                     "natural": 21842
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25283,
+            "descripcion": "BATOM BALA -MATE  VELVET CAPUCCINO",
+            "precio_catalogo": 8900,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1735,6 +1735,23 @@
             "en_promocion": false
         },
         {
+            "codigo": 25304,
+            "descripcion": "DAZZLE PO COMPACTO VELVET ESCURO 01",
+            "precio_catalogo": 56,
+            "puntos": 7.11,
+            "precios": {
+                "_50": {
+                    "juridico": 28,
+                    "natural": 33
+                },
+                "_40": {
+                    "juridico": 34,
+                    "natural": 38
+                }
+            },
+            "en_promocion": false
+        },
+        {
             "codigo": 25330,
             "descripcion": "BATOM BALA - HIDRATANTE  NUDE ROSE",
             "precio_catalogo": 39,
@@ -1767,23 +1784,6 @@
                 }
             },
             "en_promocion": true
-        },
-        {
-            "codigo": 25304,
-            "descripcion": "DAZZLE PO COMPACTO VELVET ESCURO 01",
-            "precio_catalogo": 56,
-            "puntos": 7.11,
-            "precios": {
-                "_50": {
-                    "juridico": 28,
-                    "natural": 33
-                },
-                "_40": {
-                    "juridico": 34,
-                    "natural": 38
-                }
-            },
-            "en_promocion": false
         },
         {
             "codigo": 12064,
@@ -1905,23 +1905,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 17537,
-            "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
-            "precio_catalogo": 27600,
-            "puntos": 25.75,
-            "precios": {
-                "_50": {
-                    "juridico": 13800,
-                    "natural": 16004
-                },
-                "_40": {
-                    "juridico": 16560,
-                    "natural": 18323
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 74001,
             "descripcion": "HIDRATANTE BABY  -MANIA DE ALEGRIA",
             "precio_catalogo": 10000,
@@ -1934,6 +1917,23 @@
                 "_40": {
                     "juridico": 6000,
                     "natural": 6639
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 17537,
+            "descripcion": "HND SHAKE BANANA LACTOSE FREE  450G",
+            "precio_catalogo": 27600,
+            "puntos": 25.75,
+            "precios": {
+                "_50": {
+                    "juridico": 13800,
+                    "natural": 16004
+                },
+                "_40": {
+                    "juridico": 16560,
+                    "natural": 18323
                 }
             },
             "en_promocion": false
@@ -1990,23 +1990,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 686075,
-            "descripcion": "PACK MADRES I",
-            "precio_catalogo": 37870,
-            "puntos": 34.6,
-            "precios": {
-                "_50": {
-                    "juridico": 18935,
-                    "natural": 21959
-                },
-                "_40": {
-                    "juridico": 22722,
-                    "natural": 25141
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 686077,
             "descripcion": "PACK MADRES III",
             "precio_catalogo": 31350,
@@ -2019,6 +2002,23 @@
                 "_40": {
                     "juridico": 18810,
                     "natural": 20813
+                }
+            },
+            "en_promocion": true
+        },
+        {
+            "codigo": 686075,
+            "descripcion": "PACK MADRES I",
+            "precio_catalogo": 37870,
+            "puntos": 34.6,
+            "precios": {
+                "_50": {
+                    "juridico": 18935,
+                    "natural": 21959
+                },
+                "_40": {
+                    "juridico": 22722,
+                    "natural": 25141
                 }
             },
             "en_promocion": true
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-22 00:27:31"
+    "ultima_actualizacion": "2023-04-23 00:30:35"
 }
