@@ -647,23 +647,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 40006,
-            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
-            "precio_catalogo": 5800,
-            "puntos": 5.75,
-            "precios": {
-                "_50": {
-                    "juridico": 2900,
-                    "natural": 3364
-                },
-                "_40": {
-                    "juridico": 3480,
-                    "natural": 3851
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 10152,
             "descripcion": "DEO COLONIA LATTITUDE ORIGINI",
             "precio_catalogo": 31300,
@@ -676,6 +659,23 @@
                 "_40": {
                     "juridico": 18780,
                     "natural": 20779
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 40006,
+            "descripcion": "GEL DENTAL CARVAO ATIVADO + ALOE VERA PRO ACTIVE   -70G",
+            "precio_catalogo": 5800,
+            "puntos": 5.75,
+            "precios": {
+                "_50": {
+                    "juridico": 2900,
+                    "natural": 3364
+                },
+                "_40": {
+                    "juridico": 3480,
+                    "natural": 3851
                 }
             },
             "en_promocion": false
@@ -783,23 +783,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 850012,
-            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25293,
             "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA CLARO 02",
             "precio_catalogo": 9900,
@@ -829,6 +812,23 @@
                 "_40": {
                     "juridico": 5940,
                     "natural": 6573
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850012,
+            "descripcion": "GRACE DEO COLONIA LA ROSE SUBLIME POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -936,23 +936,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 850004,
-            "descripcion": "LATTITUDE DEO COLONIA EXPEDITION POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25307,
             "descripcion": "DAZZLE BLUSH TERRACOTA PEROLADO",
             "precio_catalogo": 11000,
@@ -965,6 +948,23 @@
                 "_40": {
                     "juridico": 6600,
                     "natural": 7303
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850004,
+            "descripcion": "LATTITUDE DEO COLONIA EXPEDITION POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -1072,23 +1072,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 850001,
-            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
-            "precio_catalogo": 7500,
-            "puntos": 9.75,
-            "precios": {
-                "_50": {
-                    "juridico": 3750,
-                    "natural": 4349
-                },
-                "_40": {
-                    "juridico": 4500,
-                    "natural": 4979
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 850005,
             "descripcion": "LATTITUDE DEO COLONIA STAMINA POCKET 15 ML",
             "precio_catalogo": 7500,
@@ -1118,6 +1101,23 @@
                 "_40": {
                     "juridico": 6600,
                     "natural": 7303
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 850001,
+            "descripcion": "EMPIRE DEO COLONIA GOLD POCKET 15 ML",
+            "precio_catalogo": 7500,
+            "puntos": 9.75,
+            "precios": {
+                "_50": {
+                    "juridico": 3750,
+                    "natural": 4349
+                },
+                "_40": {
+                    "juridico": 4500,
+                    "natural": 4979
                 }
             },
             "en_promocion": false
@@ -1242,23 +1242,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 45039,
-            "descripcion": "POMADA CAPILAR H-MEN -40G",
-            "precio_catalogo": 10900,
-            "puntos": 12.0,
-            "precios": {
-                "_50": {
-                    "juridico": 5450,
-                    "natural": 6321
-                },
-                "_40": {
-                    "juridico": 6540,
-                    "natural": 7237
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25263,
             "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 2",
             "precio_catalogo": 19000,
@@ -1274,6 +1257,23 @@
                 }
             },
             "en_promocion": true
+        },
+        {
+            "codigo": 45039,
+            "descripcion": "POMADA CAPILAR H-MEN -40G",
+            "precio_catalogo": 10900,
+            "puntos": 12.0,
+            "precios": {
+                "_50": {
+                    "juridico": 5450,
+                    "natural": 6321
+                },
+                "_40": {
+                    "juridico": 6540,
+                    "natural": 7237
+                }
+            },
+            "en_promocion": false
         },
         {
             "codigo": 25302,
@@ -1446,23 +1446,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 12069,
-            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
-            "precio_catalogo": 8200,
-            "puntos": 3.3,
-            "precios": {
-                "_50": {
-                    "juridico": 2460,
-                    "natural": 2853
-                },
-                "_40": {
-                    "juridico": 2952,
-                    "natural": 3267
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25344,
             "descripcion": "DAZZLE Lapis Retratil PARA OLHOS  PRETO",
             "precio_catalogo": 6500,
@@ -1480,21 +1463,21 @@
             "en_promocion": false
         },
         {
-            "codigo": 25282,
-            "descripcion": "BATOM BALA -MATE  VELVET TANGERINE",
-            "precio_catalogo": 8900,
-            "puntos": 7.5,
+            "codigo": 12069,
+            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
+            "precio_catalogo": 8200,
+            "puntos": 3.3,
             "precios": {
                 "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
+                    "juridico": 2460,
+                    "natural": 2853
                 },
                 "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
+                    "juridico": 2952,
+                    "natural": 3267
                 }
             },
-            "en_promocion": false
+            "en_promocion": true
         },
         {
             "codigo": 25295,
@@ -1509,6 +1492,23 @@
                 "_40": {
                     "juridico": 5940,
                     "natural": 6573
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25282,
+            "descripcion": "BATOM BALA -MATE  VELVET TANGERINE",
+            "precio_catalogo": 8900,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1548,23 +1548,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 25280,
-            "descripcion": "BATOM BALA -MATTE  VELVET NUDE CHIC",
-            "precio_catalogo": 8900,
-            "puntos": 5.36,
-            "precios": {
-                "_50": {
-                    "juridico": 4450,
-                    "natural": 5161
-                },
-                "_40": {
-                    "juridico": 5340,
-                    "natural": 5909
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 10203,
             "descripcion": "LIFE ENERGY 75ML",
             "precio_catalogo": 32900,
@@ -1577,6 +1560,23 @@
                 "_40": {
                     "juridico": 19740,
                     "natural": 21842
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 25280,
+            "descripcion": "BATOM BALA -MATTE  VELVET NUDE CHIC",
+            "precio_catalogo": 8900,
+            "puntos": 5.36,
+            "precios": {
+                "_50": {
+                    "juridico": 4450,
+                    "natural": 5161
+                },
+                "_40": {
+                    "juridico": 5340,
+                    "natural": 5909
                 }
             },
             "en_promocion": false
@@ -1684,23 +1684,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 33007,
-            "descripcion": "OLEO CORPORAL VANILLA E COCO - 200 ML",
-            "precio_catalogo": 13990,
-            "puntos": 15.0,
-            "precios": {
-                "_50": {
-                    "juridico": 5596,
-                    "natural": 6490
-                },
-                "_40": {
-                    "juridico": 6716,
-                    "natural": 7430
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 10198,
             "descripcion": "DEO COLONIA HYPE INK ART FOR HER",
             "precio_catalogo": 32900,
@@ -1716,6 +1699,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 33007,
+            "descripcion": "OLEO CORPORAL VANILLA E COCO - 200 ML",
+            "precio_catalogo": 13990,
+            "puntos": 15.0,
+            "precios": {
+                "_50": {
+                    "juridico": 5596,
+                    "natural": 6490
+                },
+                "_40": {
+                    "juridico": 6716,
+                    "natural": 7430
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25200,
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-23 00:30:35"
+    "ultima_actualizacion": "2023-04-24 00:28:30"
 }
