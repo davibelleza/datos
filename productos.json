@@ -1242,21 +1242,21 @@
             "en_promocion": false
         },
         {
-            "codigo": 25263,
-            "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 2",
-            "precio_catalogo": 19000,
-            "puntos": 11.1,
+            "codigo": 25302,
+            "descripcion": "DAZZLE PO COMPACTO  VELVET MEDIO 01",
+            "precio_catalogo": 12000,
+            "puntos": 7.11,
             "precios": {
                 "_50": {
-                    "juridico": 5543,
-                    "natural": 6429
+                    "juridico": 6000,
+                    "natural": 6958
                 },
                 "_40": {
-                    "juridico": 6652,
-                    "natural": 7360
+                    "juridico": 7200,
+                    "natural": 7967
                 }
             },
-            "en_promocion": true
+            "en_promocion": false
         },
         {
             "codigo": 45039,
@@ -1271,23 +1271,6 @@
                 "_40": {
                     "juridico": 6540,
                     "natural": 7237
-                }
-            },
-            "en_promocion": false
-        },
-        {
-            "codigo": 25302,
-            "descripcion": "DAZZLE PO COMPACTO  VELVET MEDIO 01",
-            "precio_catalogo": 12000,
-            "puntos": 7.11,
-            "precios": {
-                "_50": {
-                    "juridico": 6000,
-                    "natural": 6958
-                },
-                "_40": {
-                    "juridico": 7200,
-                    "natural": 7967
                 }
             },
             "en_promocion": false
@@ -1308,6 +1291,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 25263,
+            "descripcion": "DAZZLE BASE HYALURONIC HYDRA MEDIO 2",
+            "precio_catalogo": 19000,
+            "puntos": 11.1,
+            "precios": {
+                "_50": {
+                    "juridico": 5543,
+                    "natural": 6429
+                },
+                "_40": {
+                    "juridico": 6652,
+                    "natural": 7360
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 33008,
@@ -1463,23 +1463,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 12069,
-            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
-            "precio_catalogo": 8200,
-            "puntos": 3.3,
-            "precios": {
-                "_50": {
-                    "juridico": 2460,
-                    "natural": 2853
-                },
-                "_40": {
-                    "juridico": 2952,
-                    "natural": 3267
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25295,
             "descripcion": "DAZZLE CORRETIVO HYALURONIC HYDRA MEDIO 02",
             "precio_catalogo": 9900,
@@ -1512,6 +1495,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 12069,
+            "descripcion": "H EXPERT COND. TODO TIPO DE CABELOS 200 ML",
+            "precio_catalogo": 8200,
+            "puntos": 3.3,
+            "precios": {
+                "_50": {
+                    "juridico": 2460,
+                    "natural": 2853
+                },
+                "_40": {
+                    "juridico": 2952,
+                    "natural": 3267
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 25279,
@@ -1786,23 +1786,6 @@
             "en_promocion": true
         },
         {
-            "codigo": 12064,
-            "descripcion": "H EXPERT SHAMP. CABELOS OLEOSOS 250 ML",
-            "precio_catalogo": 7900,
-            "puntos": 3.3,
-            "precios": {
-                "_50": {
-                    "juridico": 2370,
-                    "natural": 2749
-                },
-                "_40": {
-                    "juridico": 2844,
-                    "natural": 3147
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 10199,
             "descripcion": "DEO COLONIA HYPE INK ART FOR HIM",
             "precio_catalogo": 32900,
@@ -1818,6 +1801,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 12064,
+            "descripcion": "H EXPERT SHAMP. CABELOS OLEOSOS 250 ML",
+            "precio_catalogo": 7900,
+            "puntos": 3.3,
+            "precios": {
+                "_50": {
+                    "juridico": 2370,
+                    "natural": 2749
+                },
+                "_40": {
+                    "juridico": 2844,
+                    "natural": 3147
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 17544,
@@ -1871,23 +1871,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 75012,
-            "descripcion": "MANIA DE ALEGRIA KIDS CONDICIONADOR PARA TODO TIPO DE CABELO",
-            "precio_catalogo": 9000,
-            "puntos": 7.5,
-            "precios": {
-                "_50": {
-                    "juridico": 3375,
-                    "natural": 3914
-                },
-                "_40": {
-                    "juridico": 4050,
-                    "natural": 4482
-                }
-            },
-            "en_promocion": true
-        },
-        {
             "codigo": 25303,
             "descripcion": "DAZZLE PO COMPACTO VELVET MEDIO 02",
             "precio_catalogo": 12000,
@@ -1903,6 +1886,23 @@
                 }
             },
             "en_promocion": false
+        },
+        {
+            "codigo": 75012,
+            "descripcion": "MANIA DE ALEGRIA KIDS CONDICIONADOR PARA TODO TIPO DE CABELO",
+            "precio_catalogo": 9000,
+            "puntos": 7.5,
+            "precios": {
+                "_50": {
+                    "juridico": 3375,
+                    "natural": 3914
+                },
+                "_40": {
+                    "juridico": 4050,
+                    "natural": 4482
+                }
+            },
+            "en_promocion": true
         },
         {
             "codigo": 74001,
@@ -1939,23 +1939,6 @@
             "en_promocion": false
         },
         {
-            "codigo": 75011,
-            "descripcion": "MANIA DE ALEGRIA KIDS  SHAMPOO PARA TODO TIPO DE CABELO",
-            "precio_catalogo": 10000,
-            "puntos": 7.0,
-            "precios": {
-                "_50": {
-                    "juridico": 5000,
-                    "natural": 5799
-                },
-                "_40": {
-                    "juridico": 6000,
-                    "natural": 6639
-                }
-            },
-            "en_promocion": false
-        },
-        {
             "codigo": 25290,
             "descripcion": "BATOM BALA - HIDRATANTE RED SUN",
             "precio_catalogo": 7900,
@@ -1968,6 +1951,23 @@
                 "_40": {
                     "juridico": 4740,
                     "natural": 5245
+                }
+            },
+            "en_promocion": false
+        },
+        {
+            "codigo": 75011,
+            "descripcion": "MANIA DE ALEGRIA KIDS  SHAMPOO PARA TODO TIPO DE CABELO",
+            "precio_catalogo": 10000,
+            "puntos": 7.0,
+            "precios": {
+                "_50": {
+                    "juridico": 5000,
+                    "natural": 5799
+                },
+                "_40": {
+                    "juridico": 6000,
+                    "natural": 6639
                 }
             },
             "en_promocion": false
@@ -1988,23 +1988,6 @@
                 }
             },
             "en_promocion": false
-        },
-        {
-            "codigo": 686077,
-            "descripcion": "PACK MADRES III",
-            "precio_catalogo": 31350,
-            "puntos": 29.6,
-            "precios": {
-                "_50": {
-                    "juridico": 15675,
-                    "natural": 18178
-                },
-                "_40": {
-                    "juridico": 18810,
-                    "natural": 20813
-                }
-            },
-            "en_promocion": true
         },
         {
             "codigo": 686075,
@@ -2036,6 +2019,23 @@
                 "_40": {
                     "juridico": 22590,
                     "natural": 24995
+                }
+            },
+            "en_promocion": true
+        },
+        {
+            "codigo": 686077,
+            "descripcion": "PACK MADRES III",
+            "precio_catalogo": 31350,
+            "puntos": 29.6,
+            "precios": {
+                "_50": {
+                    "juridico": 15675,
+                    "natural": 18178
+                },
+                "_40": {
+                    "juridico": 18810,
+                    "natural": 20813
                 }
             },
             "en_promocion": true
@@ -2194,5 +2194,5 @@
             "en_promocion": true
         }
     ],
-    "ultima_actualizacion": "2023-04-24 00:28:30"
+    "ultima_actualizacion": "2023-04-24 16:09:56"
 }
